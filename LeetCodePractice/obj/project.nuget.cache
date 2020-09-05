@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lniIMc65cUN48tc4EKcYBSKJkFjTDKszW6gVzgwsdp2DOj3j/AM+gt3XsW3PAcgT3LAqkde/OE7UVXqjqr29Aw==",
+  "success": true,
+  "projectFilePath": "D:\\SourceTree\\DataStructure and Algorithm\\LeetCodePractice\\LeetCodePractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amita\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\amita\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\amita\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\amita\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
