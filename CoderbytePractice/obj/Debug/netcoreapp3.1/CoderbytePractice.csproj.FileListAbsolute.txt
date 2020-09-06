@@ -1,0 +1,13 @@
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.exe
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.deps.json
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.runtimeconfig.json
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.runtimeconfig.dev.json
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.dll
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\bin\Debug\netcoreapp3.1\CoderbytePractice.pdb
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.csprojAssemblyReference.cache
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.AssemblyInfoInputs.cache
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.AssemblyInfo.cs
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.csproj.CoreCompileInputs.cache
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.dll
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.pdb
+D:\SourceTree\DataStructure and Algorithm\CoderbytePractice\obj\Debug\netcoreapp3.1\CoderbytePractice.genruntimeconfig.cache
