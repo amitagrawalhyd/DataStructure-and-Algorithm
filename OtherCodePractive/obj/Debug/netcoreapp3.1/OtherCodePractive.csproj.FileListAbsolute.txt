@@ -1,0 +1,13 @@
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.exe
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.deps.json
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.runtimeconfig.json
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.runtimeconfig.dev.json
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.dll
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\bin\Debug\netcoreapp3.1\OtherCodePractive.pdb
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.csprojAssemblyReference.cache
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.AssemblyInfoInputs.cache
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.AssemblyInfo.cs
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.csproj.CoreCompileInputs.cache
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.dll
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.pdb
+D:\SourceTree\DataStructure and Algorithm\OtherCodePractive\obj\Debug\netcoreapp3.1\OtherCodePractive.genruntimeconfig.cache

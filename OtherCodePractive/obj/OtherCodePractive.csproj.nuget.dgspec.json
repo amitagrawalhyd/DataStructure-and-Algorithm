@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceTree\\DataStructure and Algorithm\\CoderbytePractice\\CoderbytePractice.csproj": {}
+    "D:\\SourceTree\\DataStructure and Algorithm\\OtherCodePractive\\OtherCodePractive.csproj": {}
   },
   "projects": {
-    "D:\\SourceTree\\DataStructure and Algorithm\\CoderbytePractice\\CoderbytePractice.csproj": {
+    "D:\\SourceTree\\DataStructure and Algorithm\\OtherCodePractive\\OtherCodePractive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceTree\\DataStructure and Algorithm\\CoderbytePractice\\CoderbytePractice.csproj",
-        "projectName": "CoderbytePractice",
-        "projectPath": "D:\\SourceTree\\DataStructure and Algorithm\\CoderbytePractice\\CoderbytePractice.csproj",
+        "projectUniqueName": "D:\\SourceTree\\DataStructure and Algorithm\\OtherCodePractive\\OtherCodePractive.csproj",
+        "projectName": "OtherCodePractive",
+        "projectPath": "D:\\SourceTree\\DataStructure and Algorithm\\OtherCodePractive\\OtherCodePractive.csproj",
         "packagesPath": "C:\\Users\\amita\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceTree\\DataStructure and Algorithm\\CoderbytePractice\\obj\\",
+        "outputPath": "D:\\SourceTree\\DataStructure and Algorithm\\OtherCodePractive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
